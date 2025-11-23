@@ -19,4 +19,12 @@
     DB_USER=username
     DB_PASS=password
    ```
-   
+
+### Running the Project
+Start the development server: 
+```bash
+npm run dev
+```
+The app will run at http://localhost:3000 by default.
+
+
